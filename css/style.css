@@ -13,7 +13,6 @@ html,body,.wrap{
     display: flex;
     flex-direction: column;
 }
-<<<<<<< HEAD
 section{
     overflow: hidden;
     flex:1;
@@ -31,7 +30,6 @@ section .list{
 section .list h4{
     font-weight: 400;
     font-size: 16px;
-=======
 header{
     padding: 0 5%;
     width:100%;
@@ -53,5 +51,4 @@ header a:nth-child(2){
 }
 header a:nth-child(3){
     text-align: right;
->>>>>>> header
 }
