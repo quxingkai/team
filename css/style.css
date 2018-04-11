@@ -13,3 +13,21 @@ html,body,.wrap{
     display: flex;
     flex-direction: column;
 }
+section{
+    overflow: hidden;
+    flex:1;
+    width:100%;
+}
+section .page{
+    width:100%;
+}
+section .page img{
+    width:100%;
+}
+section .list{
+    width:100%;
+}
+section .list h4{
+    font-weight: 400;
+    font-size: 16px;
+}
